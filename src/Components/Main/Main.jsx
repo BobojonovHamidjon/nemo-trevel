@@ -7,7 +7,7 @@ function Main() {
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center flex flex-col items-center">
                 <h1 className="text-4xl md:text-6xl font-bold mb-6 aos-init aos-animate" data-aos="fade-up">Sayohatingizni biz bilan boshlang</h1>
                 <p className="text-xl md:text-2xl mb-12 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">Nemo Travel - huzur uchun yo'l</p>
-                <div className="hero-stats bg-white text-gray-800 backdrop-blur-sm rounded-full py-8 px-8 flex flex-wrap justify-center items-center gap-8 md:gap-16 shadow-lg max-w-4xl mx-auto">
+                <div className="hero-stats bg-white text-gray-800  rounded-full py-8 px-8 flex flex-wrap justify-center items-center gap-8 md:gap-16 shadow-lg max-w-5xl mx-auto">
                     <div className="flex items-start gap-3">
                         <div className="w-10 h-10 rounded-full bg-[#F26522] flex items-center justify-center shrink-0">
                             <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">

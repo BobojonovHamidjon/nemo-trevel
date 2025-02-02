@@ -1,5 +1,5 @@
 import React from 'react'
-import img1 from "../../assets/antaliya.avif"
+import Marquee from "react-fast-marquee";
 
 
 function Flights() {
@@ -39,35 +39,35 @@ function Flights() {
           <h1 className='text-center text-4xl font-bold'>Mashhur shaxarlar</h1>
           <div className='grid-container flex justify-center md:justify-between items-center flex-wrap gap-5 p-4 mt-12'>
             <div className='w-full sm:w-[48%] md:w-[31%] lg:w-[23%] h-[400px] bg-white border border-gray-200 rounded-lg shadow-sm   dark:bg-white  flex flex-col'>
-            <a href="#aloqa"><img className="rounded-t-lg w-full h-[200px] object-cover" src="https://www.nemoaviatrip.uz/assets/tourdubai-TKQe6-nU.jfif" alt="Dubai"/></a>
+            <a href="#"><img className="rounded-t-lg w-full h-[200px] object-cover" src="https://www.nemoaviatrip.uz/assets/tourdubai-TKQe6-nU.jfif" alt="Dubai"/></a>
             <div className='p-5 flex flex-col flex-grow'>
-            <a href="#aloqa"><h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Dubai</h5></a>
+            <a href="#"><h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-900">Dubai</h5></a>
             <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 flex-grow">Zamonaviy arxitektura va hashamatli savdo markazlari</p>
-            <a href="#aloqa" class="inline-flex items-center justify-center w-full px-3 py-2 text-sm font-medium text-center text-white bg-[#F26522] rounded-lg hover:bg-[#F26522] focus:ring-4 focus:outline-none">Batafsil</a>
+            <a href="#" class="inline-flex items-center justify-center w-full px-3 py-2 text-sm font-medium text-center text-white bg-[#F26522] rounded-lg hover:bg-[#F26522] focus:ring-4 focus:outline-none">Batafsil</a>
             </div>
             </div>
             <div className='w-full sm:w-[48%] md:w-[31%] lg:w-[23%] h-[400px] bg-white border border-gray-200 rounded-lg shadow-sm   dark:bg-white  flex flex-col'>
-            <a href="#aloqa"><img className="rounded-t-lg w-full h-[200px] object-cover" src="https://www.nemoaviatrip.uz/assets/tourdubai-TKQe6-nU.jfif" alt="Dubai"/></a>
+            <a href="#"><img className="rounded-t-lg w-full h-[200px] object-cover" src="	https://www.nemoaviatrip.uz/assets/saudi-8KHwzW8O.avif" alt="Dubai"/></a>
             <div className='p-5 flex flex-col flex-grow'>
-            <a href="#aloqa"><h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Dubai</h5></a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 flex-grow">Zamonaviy arxitektura va hashamatli savdo markazlari</p>
-            <a href="#aloqa" class="inline-flex items-center justify-center w-full px-3 py-2 text-sm font-medium text-center text-white bg-[#F26522] rounded-lg hover:bg-[#F26522] focus:ring-4 focus:outline-none">Batafsil</a>
+            <a href="#"><h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-900">Saudiya Arabistoni</h5></a>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 flex-grow">Umra ziyorati uchun maxsus paketlar</p>
+            <a href="#" class="inline-flex items-center justify-center w-full px-3 py-2 text-sm font-medium text-center text-white bg-[#F26522] rounded-lg hover:bg-[#F26522] focus:ring-4 focus:outline-none">Batafsil</a>
             </div>
             </div>
             <div className='w-full sm:w-[48%] md:w-[31%] lg:w-[23%] h-[400px] bg-white border border-gray-200 rounded-lg shadow-sm   dark:bg-white  flex flex-col'>
-            <a href="#aloqa"><img className="rounded-t-lg w-full h-[200px] object-cover" src="https://www.nemoaviatrip.uz/assets/tourdubai-TKQe6-nU.jfif" alt="Dubai"/></a>
+            <a href="#"><img className="rounded-t-lg w-full h-[200px] object-cover" src="https://www.nemoaviatrip.uz/assets/istanbul-DLpjv57y.avif" alt="Dubai"/></a>
             <div className='p-5 flex flex-col flex-grow'>
-            <a href="#aloqa"><h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Dubai</h5></a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 flex-grow">Zamonaviy arxitektura va hashamatli savdo markazlari</p>
-            <a href="#aloqa" class="inline-flex items-center justify-center w-full px-3 py-2 text-sm font-medium text-center text-white bg-[#F26522] rounded-lg hover:bg-[#F26522] focus:ring-4 focus:outline-none">Batafsil</a>
+            <a href="#"><h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-900">Istanbul</h5></a>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 flex-grow">Tarixiy obidalar va zamonaviy madaniyat</p>
+            <a href="#" class="inline-flex items-center justify-center w-full px-3 py-2 text-sm font-medium text-center text-white bg-[#F26522] rounded-lg hover:bg-[#F26522] focus:ring-4 focus:outline-none">Batafsil</a>
             </div>
             </div>
             <div className='w-full sm:w-[48%] md:w-[31%] lg:w-[23%] h-[400px] bg-white border border-gray-200 rounded-lg shadow-sm   dark:bg-white  flex flex-col'>
-            <a href="#aloqa"><img className="rounded-t-lg w-full h-[200px] object-cover" src="https://www.nemoaviatrip.uz/assets/tourdubai-TKQe6-nU.jfif" alt="Dubai"/></a>
+            <a href="#"><img className="rounded-t-lg w-full h-[200px] object-cover" src="https://www.nemoaviatrip.uz/assets/antaliya-q-8wNECN.avif" alt="Dubai"/></a>
             <div className='p-5 flex flex-col flex-grow'>
-            <a href="#aloqa"><h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-white">Dubai</h5></a>
-            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 flex-grow">Zamonaviy arxitektura va hashamatli savdo markazlari</p>
-            <a href="#aloqa" class="inline-flex items-center justify-center w-full px-3 py-2 text-sm font-medium text-center text-white bg-[#F26522] rounded-lg hover:bg-[#F26522] focus:ring-4 focus:outline-none">Batafsil</a>
+            <a href="#"><h5 className="mb-2 text-xl font-bold tracking-tight text-gray-900 dark:text-gray-900">Antalya</h5></a>
+            <p class="mb-3 font-normal text-gray-700 dark:text-gray-400 flex-grow">Dam olish va sohil bo'yi kurortlari</p>
+            <a href="#" class="inline-flex items-center justify-center w-full px-3 py-2 text-sm font-medium text-center text-white bg-[#F26522] rounded-lg hover:bg-[#F26522] focus:ring-4 focus:outline-none">Batafsil</a>
             </div>
             </div>
           </div>
@@ -76,10 +76,8 @@ function Flights() {
         </div>
       <div>
         <h2 className='text-center text-3xl font-bold mb-5 text-gray-900'>Hamkorlarimiz</h2>
-        <div className='rfm-marquee-container p-2  pause-on-hover: running;   width: 100%; transform: none;  flex'>
-              <div className='rfm-marquee   min-w-100%  flex'>
+       <Marquee>       
                 <div className='rfm-initial-child-container   flex '>
-                 
                   <div className='rfm-child  transform:none   '>
                     <div className='mx-8 flex-col items-center'>
                       <img src="https://www.nemoaviatrip.uz/assets/uzairways-CikMttcO.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
@@ -88,8 +86,26 @@ function Flights() {
                   </div>
                   <div className='rfm-child  transform:none'>
                   <div className='mx-8 flex-col items-center'>
-                      <img src="https://www.nemoaviatrip.uz/assets/uzairways-CikMttcO.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
-                      <p className='mt-2 text-sm text-gray-700 font-medium'>Uzairways</p>
+                      <img src="https://www.nemoaviatrip.uz/assets/centrumair-Cqx3MyJr.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
+                      <p className='mt-2 text-sm text-gray-700 font-medium'>Centrum Air</p>
+                    </div>
+                  </div>
+                  <div className='rfm-child  transform:none'>
+                  <div className='mx-8 flex-col items-center'>
+                      <img src="https://www.nemoaviatrip.uz/assets/turkish-C845EpGu.jpg" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
+                      <p className='mt-2 text-sm text-gray-700 font-medium'>Turkish Airlines</p>
+                    </div>
+                  </div>
+                  <div className='rfm-child  transform:none'>
+                  <div className='mx-8 flex-col items-center'>
+                      <img src="https://www.nemoaviatrip.uz/assets/emirates-CzxVNIkZ.jpg" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
+                      <p className='mt-2 text-sm text-gray-700 font-medium'>Emirates</p>
+                    </div>
+                  </div>
+                  <div className='rfm-child  transform:none'>
+                  <div className='mx-8 flex-col items-center'>
+                      <img src="https://www.nemoaviatrip.uz/assets/qatar-CJ_bclRA.jpg" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
+                      <p className='mt-2 text-sm text-gray-700 font-medium'>Qatar Airways</p>
                     </div>
                   </div>
                   <div className='rfm-child  transform:none'>
@@ -100,48 +116,31 @@ function Flights() {
                   </div>
                   <div className='rfm-child  transform:none'>
                   <div className='mx-8 flex-col items-center'>
-                      <img src="https://www.nemoaviatrip.uz/assets/uzairways-CikMttcO.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
-                      <p className='mt-2 text-sm text-gray-700 font-medium'>Uzairways</p>
+                      <img src="https://www.nemoaviatrip.uz/assets/centrumair-Cqx3MyJr.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
+                      <p className='mt-2 text-sm text-gray-700 font-medium'>Centrum Air</p>
                     </div>
                   </div>
                   <div className='rfm-child  transform:none'>
                   <div className='mx-8 flex-col items-center'>
-                      <img src="https://www.nemoaviatrip.uz/assets/uzairways-CikMttcO.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
-                      <p className='mt-2 text-sm text-gray-700 font-medium'>Uzairways</p>
+                      <img src="https://www.nemoaviatrip.uz/assets/turkish-C845EpGu.jpg" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
+                      <p className='mt-2 text-sm text-gray-700 font-medium'>Turkish Airlines</p>
                     </div>
                   </div>
                   <div className='rfm-child  transform:none'>
                   <div className='mx-8 flex-col items-center'>
-                      <img src="https://www.nemoaviatrip.uz/assets/uzairways-CikMttcO.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
-                      <p className='mt-2 text-sm text-gray-700 font-medium'>Uzairways</p>
+                      <img src="https://www.nemoaviatrip.uz/assets/emirates-CzxVNIkZ.jpg" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
+                      <p className='mt-2 text-sm text-gray-700 font-medium'>Emirates</p>
                     </div>
                   </div>
                   <div className='rfm-child  transform:none'>
                   <div className='mx-8 flex-col items-center'>
-                      <img src="https://www.nemoaviatrip.uz/assets/uzairways-CikMttcO.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
-                      <p className='mt-2 text-sm text-gray-700 font-medium'>Uzairways</p>
+                      <img src="https://www.nemoaviatrip.uz/assets/qatar-CJ_bclRA.jpg" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
+                      <p className='mt-2 text-sm text-gray-700 font-medium'>Qatar Airways</p>
                     </div>
                   </div>
-                  <div className='rfm-child  transform:none'>
-                  <div className='mx-8 flex-col items-center'>
-                      <img src="https://www.nemoaviatrip.uz/assets/uzairways-CikMttcO.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
-                      <p className='mt-2 text-sm text-gray-700 font-medium'>Uzairways</p>
-                    </div>
-                  </div>
-                  <div className='rfm-child  transform:none'>
-                  <div className='mx-8 flex-col items-center'>
-                      <img src="https://www.nemoaviatrip.uz/assets/uzairways-CikMttcO.jfif" alt="Uzairways"  className='h-24  w-autoh-24 w-auto rounded-md shadow-lg' />
-                      <p className='mt-2 text-sm text-gray-700 font-medium'>Uzairways</p>
-                    </div>
-                  </div>
-                  <div className='rfm-child  transform:none'>
-
-                  </div>
-                
                 </div>
-
-              </div>
-        </div>
+               
+       </Marquee>
       </div>
       </div>
 
