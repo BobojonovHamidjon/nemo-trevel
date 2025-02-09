@@ -1,5 +1,5 @@
 import React from 'react'
-import LanguageSwitcher from '../LanguageSwitcher'
+
 
  function Header() {
   return (
@@ -20,8 +20,9 @@ import LanguageSwitcher from '../LanguageSwitcher'
               </ul>
               <div className="relative">
                 <button className="flex items-center space-x-2 px-3 py-2 rounded-md text-gray-900">
-                  <LanguageSwitcher/>
+               
                   <span>UZ</span>
+                 
                  
                   <svg className="w-4 h-4 transition-transform " fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
                   </svg>
